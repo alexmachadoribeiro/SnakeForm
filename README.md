@@ -1,2 +1,2 @@
 # SnakeForm
-Jogo da cobrinha completo.
+Jogo da cobrinha completo feito em C#.
